@@ -6,3 +6,4 @@
     * [MC服务器状态贴图生成](doc/MCStatus-Image/index.md)
     * [祖安接口(Token)](doc/nmsl/index.md)
 * [Token申请](token-apply.md)
+* [更新日志](change-log.md)

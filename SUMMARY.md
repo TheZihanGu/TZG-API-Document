@@ -7,5 +7,6 @@
     * [祖安接口(Token)](doc/nmsl/index.md)
     * [Mojang Helper](doc/Mojang-Helper/index.md)
     * [灰白图片生成](doc/mourn/index.md)
+    * [短链接生成(第三方)](doc/Short-Link-third-party/index.md)
 * [Token申请](token-apply.md)
 * [更新日志](change-log.md)

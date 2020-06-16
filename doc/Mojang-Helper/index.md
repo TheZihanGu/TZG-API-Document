@@ -1,7 +1,7 @@
 # Mojang Helper
-解决Mojang API获取数据时返回No'Access-Control-Allow-Origin' header is present on the requested resource的问题。
+解决 Mojang API 获取数据时返回 "No'Access-Control-Allow-Origin' header is present on the requested resource" 的问题。
 ## 数据介绍
-此接口目前包含MCProfiles和MCSession两个接口的获取处理，分别获取的是以下两个接口的数据：   
+此接口目前包含 MCProfiles 和 MCSession 两个接口的获取处理，分别获取的是以下两个接口的数据：   
 * https://api.mojang.com/users/profiles/minecraft/
 * https://sessionserver.mojang.com/session/minecraft/profile/
 ## 获取方式
@@ -14,7 +14,7 @@ https://api.tzgz6.com/api/mcsession?id={uuid}
 username: 玩家的正版用户名(不区分大小写) (必选)   
 uuid: 玩家的UUID (必选)   
 ## 返回参数
-接口返回参数与Mojang API返回参数一致。
+接口返回参数与 Mojang API 返回参数一致。
 ## 返回数据示例
 ```
 {
@@ -35,4 +35,4 @@ uuid: 玩家的UUID (必选)
 }
 ```   
 ## 备注
-若MCProfiles未传入name，将返回一个名为Undefined的玩家的数据，请注意程序进行判断。
+若 MCProfiles 未传入```name```，将返回一个名为Undefined的玩家的数据，请注意程序进行判断。

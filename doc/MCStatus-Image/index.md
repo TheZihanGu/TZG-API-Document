@@ -1,7 +1,7 @@
 # MC服务器状态贴图生成
-此API已经被应用到[TZG MCStatus](https://mcstatus.tzg6.com).
+此API已经被应用到 [TZG MCStatus](https://mcstatus.tzg6.com).
 ## 数据介绍
-获取Minecraft服务器的状态，MOTD、在线人数和最大人数等信息，并生成贴图.
+获取 Minecraft 服务器的状态，MOTD、在线人数和最大人数等信息，并生成贴图.
 ## 获取方式
 HTTP GET
 ## 请求URL
@@ -15,5 +15,7 @@ Motd: 自定义生成图片的标题，若不指定将默认使用服务器的Mo
 此接口将直接返回生成后的图片内容。(Image/PNG)
 ## 返回数据示例
 <div style="text-align:center"><img style="float:middle" src='https://api.tzg6.com/api/mcstatus-image.png?ip=mc.tzg6.com&port=25565&motd=TZG-Craft' height="150"></div>
-## 隐私
-在图片生成后，我们的程序将会立即删除生成的图片或在一天后进行删除。我们不会将您的服务器信息提供给任何第三方机构或个人。
+
+## 备注
+该接口并不稳定，可能会不定时出现服务不可用的情况。   
+图片生成后，我们的程序将会立即删除服务器状态图片或者在一天内被自动删除。我们不会将您的服务器信息提供给任何第三方机构或个人。

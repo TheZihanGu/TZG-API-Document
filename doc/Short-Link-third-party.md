@@ -1,8 +1,10 @@
 # 短链接生成(第三方)
 本接口是为了方便 [你不会百度吗](https://nbhbdm.cn) 的接入而设计的...调用 [缩我](https://suo.im) 的 API 接口。   
 目前此接口已经被使用于[你不会百度吗](https://nbhbdm.cn)。   
+::: tip
 注意：该接口由于可能会引起他人滥用，故采用token鉴权的方式进行认证。   
-你可以在[这里](/token-apply.html)申请Token.
+你可以在[这里](/help/token-apply.html)申请Token.
+:::
 ## 数据介绍
 将一个长链接转换为短链接。
 ## 获取方式

@@ -11,7 +11,7 @@ HTTP GET
 https://api.tzg6.com/api/nmsl?token={token}
 ```
 token：你申请到的 API Token （必选）   
-若要申请API Token，请前往[Token申请](https://api.tzg6.com/token-apply.html)
+若要申请API Token，请前往[Token申请](/help/token-apply.html)
 ## 返回参数
 ``` id ```: 语句编号   
 ``` text ```: 随机选取到的祖安语录   

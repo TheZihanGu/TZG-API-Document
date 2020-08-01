@@ -3,7 +3,7 @@
 如果你需要使用这些接口做一些很棒的东西，欢迎向我们提出申请。
 ## 申请方式
 * 通过我的博客[留言板](https://zihangu.com/?page_id=175)进行申请。（请注明申请Token）
-* 发送邮件到 [zihangu@dingtalk.com](mailto:zihangu@dingtalk.com) 进行申请。（请在邮件标题注明申请Token）   
+* 发送邮件到 [zihangu@tzg.asia](mailto:zihangu@tzg.asia) 进行申请。（请在邮件标题注明申请Token）   
 格式如下：
 
 ```

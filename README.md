@@ -13,5 +13,5 @@ TZG API 是本人由于项目的原因需要在公网使用的一些接口，不
 请打开导航栏中的 [文档](/doc/BiliBV.html) 查看相关接口文档，并查看使用方法。
 ## 捐助
 由于我们的服务器开销巨大，所以如果你想让我们做得更好，欢迎捐助我们。（当然你不捐助我们也会变得更好_(:з)∠)_   
-<div style="text-align:center"><img style="float:middle" src='https://oss.tzg6.com/image/Wechat-Donate.png' height="300"></div>
-<div style="text-align:center"><img style="float:middle" src='https://sectigo.com/images/seals/sectigo_trust_seal_md_2x.png'></div>
+<div style="text-align:center"><img style="float:middle" src='https://cdn.tzg6.com/uploads/3408f39d1cd2539947502b9eed56a1cf.jpg' height="300"></div>
+<div style="text-align:center"><img style="float:middle" src='https://cdn.tzg6.com/uploads/2f6afc2c60cbd73e3b23b1a50e972c59.png'></div>

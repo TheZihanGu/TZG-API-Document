@@ -18,9 +18,8 @@ module.exports = {
         "vuepress-plugin-auto-sidebar": {
             titleMode: "titlecase",
         },
-        "vuepress-plugin-matomo": {
-            siteId: 9,
-            trackerUrl: "https://s.tzg6.com/"
+        "@vuepress/google-analytics": {
+            ga: "G-R3XKPMW0ZD",
       },
     }
 }
